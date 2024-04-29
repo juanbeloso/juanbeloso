@@ -1,8 +1,11 @@
-  <h1 align="center">
+ <h1 align="center">
  Hola!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-
+  <div align="center">
+<img align="center" alt="GIF" src="https://github.com/juanbeloso/juanbeloso/blob/main/code.gif?raw=true" width="500" height="320" />
+    </div>
+    <p>
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/juan-antonio-beloso-daparte-253a7818/">
@@ -14,6 +17,7 @@
   </a>
   </div>
 </div>
+</p>
 
 ```js
 import SoftwareDeveloper from 'juanBeloso';
