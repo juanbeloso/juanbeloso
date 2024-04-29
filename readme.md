@@ -1,20 +1,20 @@
 
 ```js
-import SoftwareDeveloper from 'sebasNavarrete';
+import SoftwareDeveloper from 'juanBeloso';
 
 class Bio extends SoftwareDeveloper {
-  name = 'Navarrete Sebastian';
+  name = 'Juan Beloso';
   pronouns: "he" | "him":
   passions: 'Quality Assurance','performance web', 'web development';
   title    = 'QA tester';
-  company  = 'Logosoft | Remote';
-  location = 'Costa Rica';
+  company  = 'Heyweb | Remote';
+  location = 'España';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = [Javascript, Typescript, HTML, CSS, Java];
+  languages  = [Javascript, PHP, HTML, CSS, Python];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLServer'];
-  frameworks = ['Playwright', 'Cypress'];
+  frameworks = ['Laravel', 'Filament'];
 }
 ```
 **languages and tools:**  
