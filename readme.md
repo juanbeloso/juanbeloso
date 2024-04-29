@@ -32,7 +32,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Javascript', 'PHP', 'HTM'L, 'CSS', 'Python'];
+  languages  = ['Javascript', 'PHP', 'HTML', 'CSS', 'Python'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLServer'];
   frameworks = ['Laravel', 'Filament'];
 }
