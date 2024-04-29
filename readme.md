@@ -1,4 +1,4 @@
-import SoftwareDeveloper from 'juasBeloso';
+import SoftwareDeveloper from 'juanBeloso';
 
 class Bio extends SoftwareDeveloper {
   name = 'Juan Beloso';
