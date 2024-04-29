@@ -1,3 +1,8 @@
+  <h1 align="center">
+ Hello!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/juan-antonio-beloso-daparte-253a7818/">
