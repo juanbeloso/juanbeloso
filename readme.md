@@ -25,8 +25,8 @@ import SoftwareDeveloper from 'juanBeloso';
 class Bio extends SoftwareDeveloper {
   name = 'Juan Beloso';
   pronouns: "he" | "him":
-  passions: 'Quality Assurance','performance web', 'web development';
-  title    = 'QA tester';
+  passions: 'Web development','Performance web', 'Cibersecurity';
+  title    = 'Full Stack Web Developer';
   company  = 'Heyweb | Remote';
   location = 'España';
 }
